@@ -1,4 +1,6 @@
-<h1>Sistema de cadastro de BoardGames</h1>
+<h1>Projeto do curso de git e github alura</h1>
+
+<h2>Sistema de cadastro de BoardGames</h2>
 
 > Status do projeto: Em desenvolvimento.
 
